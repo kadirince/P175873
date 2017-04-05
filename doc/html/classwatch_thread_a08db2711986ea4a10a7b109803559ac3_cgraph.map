@@ -1,0 +1,9 @@
+<map id="watchThread::run" name="watchThread::run">
+<area shape="rect" id="node2" href="$speed_data_8cpp.html#ac93a2ac372b2a26d319579859c869a78" title="spd2angle" alt="" coords="609,7,690,34"/>
+<area shape="rect" id="node3" href="$speed_data_8cpp.html#a40145ea42257da86b8eecd70eb0ed426" title="rpm2angle" alt="" coords="608,159,691,186"/>
+<area shape="rect" id="node4" href="$classspeed_data.html#a6f73095f2c87900875354182e8ae900e" title="speedData::valsChanged" alt="" coords="176,134,345,160"/>
+<area shape="rect" id="node5" href="$speed_data_8cpp.html#a12a6475e7c2bffbaa368a90a6980fe97" title="setAngles" alt="" coords="221,83,301,110"/>
+<area shape="rect" id="node6" href="$speed_data_8cpp.html#a2fbc3e33ae2bfc5347537e761818b1da" title="setSpd" alt="" coords="396,58,459,84"/>
+<area shape="rect" id="node7" href="$speed_data_8cpp.html#aea1d500d43448c077cfa00c1e7735ba4" title="setRpm" alt="" coords="393,108,461,135"/>
+<area shape="rect" id="node8" href="$speed_data_8cpp.html#a7c6bb0d4bf35d284e20b2a1eb967472b" title="imax" alt="" coords="509,108,560,135"/>
+</map>

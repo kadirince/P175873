@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>speedo.qml</file>
+        <file>images/base2d.png</file>
+        <file>images/needle5.png</file>
+        <file>images/redDot.png</file>
+        <file>MainForm.ui.qml</file>
+    </qresource>
+</RCC>
